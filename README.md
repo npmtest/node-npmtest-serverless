@@ -1,4 +1,7 @@
-# test coverage for  [serverless (v1.11.0)](https://github.com/serverless/serverless#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-serverless.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-serverless) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-serverless.svg)](https://travis-ci.org/npmtest/node-npmtest-serverless)
+# npmtest-serverless
+
+#### basic test coverage for  [serverless (v1.11.0)](https://github.com/serverless/serverless#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-serverless.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-serverless) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-serverless.svg)](https://travis-ci.org/npmtest/node-npmtest-serverless)
+
 #### Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more
 
 [![NPM](https://nodei.co/npm/serverless.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/serverless)

@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [serverless (v1.11.0)](https://github.com/serverless/serverless#readme) [![npm package](https://img.shields.io/npm/v/npmtest-serverless.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-serverless) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-serverless.svg)](https://travis-ci.org/npmtest/node-npmtest-serverless)",
+    "description": "#### basic test coverage for  [serverless (v1.11.0)](https://github.com/serverless/serverless#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-serverless.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-serverless) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-serverless.svg)](https://travis-ci.org/npmtest/node-npmtest-serverless)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "serverless": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
